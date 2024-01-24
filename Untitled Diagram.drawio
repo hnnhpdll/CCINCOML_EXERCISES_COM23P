@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" modified="2024-01-24T04:56:25.280Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="esYbSwINx7-XurZfnDXE" version="23.0.0" type="github">
+  <diagram name="Page-1" id="WiqSVp00HvFaXut3ixDZ">
+    <mxGraphModel dx="880" dy="1629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EAjmZisyZm97tcP2uOi2-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="EAjmZisyZm97tcP2uOi2-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="-307" as="sourcePoint" />
+            <mxPoint x="399.0000000000002" y="-246.99999999999977" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EAjmZisyZm97tcP2uOi2-2" value="Coffee does not taste well." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="-400" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EAjmZisyZm97tcP2uOi2-4" value="Used enough water?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="339" y="-246" width="120" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="EAjmZisyZm97tcP2uOi2-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="459" y="-198.09" as="sourcePoint" />
+            <mxPoint x="519" y="-198.09" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EAjmZisyZm97tcP2uOi2-8" value="Use appropriate amount of water" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="-222" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EAjmZisyZm97tcP2uOi2-9" value="&lt;br&gt;No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="465" y="-237" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
