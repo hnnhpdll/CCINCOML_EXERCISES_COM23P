@@ -1,32 +1,137 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T04:56:25.280Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="esYbSwINx7-XurZfnDXE" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T05:23:01.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="AkXVlfiytPRykNh-ZPNi" version="23.0.0" type="github">
   <diagram name="Page-1" id="WiqSVp00HvFaXut3ixDZ">
-    <mxGraphModel dx="880" dy="1629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="1710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EAjmZisyZm97tcP2uOi2-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="EAjmZisyZm97tcP2uOi2-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="399" y="-307" as="sourcePoint" />
-            <mxPoint x="399.0000000000002" y="-246.99999999999977" as="targetPoint" />
+            <mxPoint x="379" y="-1067" as="sourcePoint" />
+            <mxPoint x="379.0000000000002" y="-1006.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EAjmZisyZm97tcP2uOi2-2" value="Coffee does not taste well." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="-400" width="160" height="80" as="geometry" />
+        <mxCell id="EAjmZisyZm97tcP2uOi2-2" value="A week of Vacation" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="-1160" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EAjmZisyZm97tcP2uOi2-4" value="Used enough water?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="339" y="-246" width="120" height="96" as="geometry" />
-        </mxCell>
-        <mxCell id="EAjmZisyZm97tcP2uOi2-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="459" y="-198.09" as="sourcePoint" />
-            <mxPoint x="519" y="-198.09" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EAjmZisyZm97tcP2uOi2-8" value="Use appropriate amount of water" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="-222" width="120" height="50" as="geometry" />
+        <mxCell id="EAjmZisyZm97tcP2uOi2-8" value="Go home to Manila" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="-835" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EAjmZisyZm97tcP2uOi2-9" value="&lt;br&gt;No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="465" y="-237" width="40" height="40" as="geometry" />
+          <mxGeometry x="450" y="-850" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qit393KmViXH-omauKFx-1" value="Cebu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-1007" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qit393KmViXH-omauKFx-2" value="Do you have &lt;br&gt;enough money?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-870" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Qit393KmViXH-omauKFx-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qit393KmViXH-omauKFx-1" target="Qit393KmViXH-omauKFx-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="-840" as="sourcePoint" />
+            <mxPoint x="440" y="-890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qit393KmViXH-omauKFx-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="-810.5" as="sourcePoint" />
+            <mxPoint x="510" y="-810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qit393KmViXH-omauKFx-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qit393KmViXH-omauKFx-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="-810" as="sourcePoint" />
+            <mxPoint x="250" y="-810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qit393KmViXH-omauKFx-10" value="Go to Davao or Cebu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-840" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Qit393KmViXH-omauKFx-11" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-430" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qit393KmViXH-omauKFx-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qit393KmViXH-omauKFx-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-710" as="sourcePoint" />
+            <mxPoint x="190" y="-720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qit393KmViXH-omauKFx-16" value="Airplane or Boat" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125.5" y="-631" width="125" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Qit393KmViXH-omauKFx-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qit393KmViXH-omauKFx-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="265" y="-645.5" as="sourcePoint" />
+            <mxPoint x="190" y="-490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qit393KmViXH-omauKFx-19" value="Mode of Transportation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="127.5" y="-720" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Qit393KmViXH-omauKFx-20" value="Davao" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-609" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Qit393KmViXH-omauKFx-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qit393KmViXH-omauKFx-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="-780" as="sourcePoint" />
+            <mxPoint x="188" y="-630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qit393KmViXH-omauKFx-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="247.5" y="-586.5" as="sourcePoint" />
+            <mxPoint x="317.5" y="-586" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qit393KmViXH-omauKFx-28" value="Airplane" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="-614" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qit393KmViXH-omauKFx-31" value="Boat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="147" y="-541" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qit393KmViXH-omauKFx-32" value="Cebu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130.5" y="-490" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Qit393KmViXH-omauKFx-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qit393KmViXH-omauKFx-32" target="Qit393KmViXH-omauKFx-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="-400" as="sourcePoint" />
+            <mxPoint x="450" y="-460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="191" y="-400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qit393KmViXH-omauKFx-37" value="You still have enough money. Would you proceed going&lt;br&gt;&amp;nbsp;to the next island?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="-460" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Qit393KmViXH-omauKFx-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qit393KmViXH-omauKFx-20" target="Qit393KmViXH-omauKFx-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-410" as="sourcePoint" />
+            <mxPoint x="450" y="-460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qit393KmViXH-omauKFx-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="EAjmZisyZm97tcP2uOi2-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="466" y="-400" as="sourcePoint" />
+            <mxPoint x="556" y="-400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="-400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qit393KmViXH-omauKFx-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qit393KmViXH-omauKFx-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="-390" as="sourcePoint" />
+            <mxPoint x="380" y="-280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qit393KmViXH-omauKFx-43" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-835" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qit393KmViXH-omauKFx-46" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="374" y="-330" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qit393KmViXH-omauKFx-47" value="Proceed to the last island" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="317.5" y="-280" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
